@@ -12,7 +12,8 @@
     * **APIs** used in another chatbot project to display movies based on your preferences etc., 
     * **Asynchronous programming in JS and NodeJS** used to create a mini server with promises, callbacks, events, etc.,
     * **Oriented Object Programming in JS and Python** used to create a "low tech blog" using classes, inheritance etc.,
-    For more details, feel free to check the projects down below ⬇️
+    
+    => For more details, feel free to check the projects down below ⬇️
     
 - 🔎&nbsp;&nbsp;What am I looking for ? An **apprenticeship (June 2021)** where I could be of use, of course, but more importantly where I could continue learning and participate to the development of a company by collaborating on challenging projects!
 
