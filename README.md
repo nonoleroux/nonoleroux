@@ -15,6 +15,5 @@
     
     => For more details, feel free to check the projects down below ⬇️
     
-- 🔎&nbsp;&nbsp;What am I looking for ? An **apprenticeship (June 2021)** where I could be of use, of course, but more importantly where I could continue learning and participate to the development of a company by collaborating on challenging projects!
-
+- 🔎&nbsp;&nbsp;What am I looking for ? Currently working in a great company 🙂
 - 📫&nbsp;&nbsp;How to reach me ? : [email](noemie.leroux@student.adatechschool.fr) or [Linkedin](linkedin.com/in/noemie-le-roux)
