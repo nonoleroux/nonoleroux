@@ -16,9 +16,10 @@
     => For more details, feel free to check the projects down below ⬇️
     
 - 📷&nbsp;&nbsp;Here is a second snapshot of what I've been working on during my 12 months apprenticeship:
-    * **Typescript/React** coding and refactoring components from the Design System as part of a DevOps Team.
-    * **NodeJS** coding for a media server/media center - an internal tool of the company - as part of a DevOps Team.
-    * **Typescript/React** coding pages on the main website on the Front side as part of a FT Team.
+    * **Typescript/React** coding and refactoring components from the Design System as part of a Core Team.
+    * **NodeJS** coding for a media server/media center - an internal tool of the company - as part of a Core Team.
+    * **Typescript/React** coding pages on the main website on the Front side as part of a Feature Team.
+    * **Typescript/React/Go** creating a social network from scratch for the students and alumnis of my school: https://github.com/ada-social-network
     
     
 - 🔎&nbsp;&nbsp;What am I looking for ? A Junior Software Developer position in a great company !
