@@ -1,3 +1,5 @@
+<p align="center"> <a href="https://app.daily.dev/nonoleroux"><img src="https://api.daily.dev/devcards/4b57d6f89f874f00a008eed777fe24bc.png?r=8uu" width="400" alt="Nono's Dev Card"/></a> </p>
+
 ### Hello World ! 👋
 
 - 🔭&nbsp;&nbsp;Who am I ? I’m a Software Developer apprentice at Ada Tech School: a school that "breaks the codes" (pun intended 😉 ) based on "learning by doing" and "Montessori" educational methods.
