@@ -2,7 +2,7 @@
 
 ### Hello World ! 👋
 
-- 🔭&nbsp;&nbsp;Who am I ? I’m a soon-to-be Junior Software Developer who studied for 21 months at Ada Tech School: a school that "breaks the codes" (pun intended 😉 ) based on "learning by doing" and "Montessori" educational methods.
+- 🔭&nbsp;&nbsp;Who am I ? I’m a Software Developer who studied for 21 months at Ada Tech School: a school that "breaks the codes" (pun intended 😉 ) based on "learning by doing" and "Montessori" educational methods.
 
 - 💻&nbsp;&nbsp;How did the school work ? We learnt how to build programs using several languages, depending on the project we were working on as a team for 9 months and then worked in a company as an apprentice for 12 months on a basis of 4 days @ the company and 1 day @ school.
 
@@ -22,5 +22,5 @@
     * **Typescript/React/Go** creating a social network from scratch for the students and alumnis of my school: https://github.com/ada-social-network
     
     
-- 🔎&nbsp;&nbsp;What am I looking for ? A Junior Software Developer position in a great company !
+- 🔎&nbsp;&nbsp;What am I looking for ? A Software Developer position in a great company !
 - 📫&nbsp;&nbsp;How to reach me ? : [email](lroux.noemie@gmail.com) or [Linkedin](linkedin.com/in/noemie-le-roux)
